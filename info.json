@@ -1,0 +1,9 @@
+{
+  "name": "disable-construction-robots",
+  "version": "0.1.0",
+  "title": "Disable Construction Robots",
+  "author": "Gridbug",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod gives you a selection tool that allows you to disable the construction zone for roboports. A shortcut button turns all Roboport construction zones back on. Useful for when you're planning a new part of the factory with ghosts and don't want your bots to start to start construction until it's done."
+}
